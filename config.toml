@@ -1,0 +1,29 @@
+baseURL = "http://yhaneji.github.io/"
+languageCode = "ja-jp"
+title = "Yuto Haneji（羽路 悠斗）"
+theme = "hugo-resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+email = "yutohaneji.official[at]gmail.com"
+firstName = "Yuto"
+lastName = "Haneji"
+showEducation = true
+showExperience = true
+showProjects = false
+showPublications = true
+showSkills = true
+
+[[params.handles]]
+link = "https://github.com/Y-Haneji"
+name = "GitHub"
+
+[[ params.handles ]]
+link = "https://www.kaggle.com/hanejiyuto"
+name = "Kaggle"
+
+[outputs]
+home = ["HTML", "JSON"]

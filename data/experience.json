@@ -1,0 +1,20 @@
+[
+    {
+        "role":"AI engineer and team lead (part time)",
+        "company":"[Matsuo Institute INC.](https://matsuo-institute.com)",
+        "summary":"Developping AI models for automatic generation of highlights of sports videos.",
+        "range":"September 2022 - Present"
+    },
+    {
+        "role":"Data Scientist (part time)",
+        "company":"[Rist Inc.](https://matsuo-institute.com)",
+        "summary":"Data assessment, modeling of baseline, and proposal before permanent staffs involved.",
+        "range":"January 2022 - Present"
+    },
+    {
+        "role":"AI Specialist (intern)",
+        "company":"[DeNA Co., LTD.](https://dena.com/jp/)",
+        "summary":"[Developped AI models for recommendation system fpr longtail platform in live streaming service.](https://engineering.dena.com/blog/2022/10/haneji-ai-intern-2022-summer/)",
+        "range":"August 2022 - September 2022"
+    }
+]

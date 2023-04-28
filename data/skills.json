@@ -1,0 +1,13 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Python","HTML","CSS","JavaScript","Google Apps Script","Java","OCaml","Ruby","ROS","git","linux","bash","zsh","BigQuery"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"}
+      ]
+  }
+]
