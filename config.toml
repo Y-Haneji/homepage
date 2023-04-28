@@ -11,6 +11,7 @@ enableGitInfo = false
 email = "yutohaneji.official[at]gmail.com haneji.yuto.58c@st.kyoto-u.ac.jp"
 firstName = "Yuto"
 lastName = "Haneji"
+profileImage = "img/profile.jpg"
 showEducation = true
 showExperience = true
 showProjects = false
