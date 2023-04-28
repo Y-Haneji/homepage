@@ -1,4 +1,4 @@
-baseURL = "http://yhaneji.github.io/"
+baseURL = "https://yhaneji.github.io/"
 languageCode = "ja-jp"
 title = "Yuto Haneji（羽路 悠斗）"
 theme = "hugo-resume"
@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-email = "yutohaneji.official[at]gmail.com"
+email = "yutohaneji.official[at]gmail.com haneji.yuto.58c@st.kyoto-u.ac.jp"
 firstName = "Yuto"
 lastName = "Haneji"
 showEducation = true
