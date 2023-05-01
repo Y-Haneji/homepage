@@ -26,5 +26,9 @@ name = "GitHub"
 link = "https://www.kaggle.com/hanejiyuto"
 name = "Kaggle"
 
+[[ params.handles ]]
+link = "https://qiita.com/Y-Haneji"
+name = "Qiita"
+
 [outputs]
 home = ["HTML", "JSON"]
