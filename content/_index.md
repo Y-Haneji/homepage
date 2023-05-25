@@ -11,4 +11,4 @@ outputs:
 ---
 I'm interested in data science and machine learning. I'm challenging Kaggle competiitons, doing part time jobs as a data scientist and an AI engineer, and conducting research in a graduate schhool.
 
-Kaggle Competition Expert (silver x3, bronz x1)
+Kaggle Competition Expert (silver x3, bronze x1)
