@@ -1,8 +1,8 @@
 [
     {
-        "role":"AI engineer and team lead (part time)",
+        "role":"Chief AI Engineer (part time)",
         "company":"[Matsuo Institute INC.](https://matsuo-institute.com)",
-        "summary":"Developping AI models for automatic generation of highlights of sports videos.",
+        "summary":"ML model development and project management.",
         "range":"September 2022 - Present"
     },
     {
@@ -10,6 +10,24 @@
         "company":"[Rist Inc.](https://matsuo-institute.com)",
         "summary":"Data assessment, modeling of baseline, and proposal before permanent staffs involved.",
         "range":"January 2022 - Present"
+    },
+    {
+        "role": "Software Engineer (Machine Learning) (intern)",
+        "company": "[Merpay, Inc.](https://jp.merpay.com)",
+        "summary": "Developped fraud detection ML models for payment service, which replace the existing algorithm-based logic.",
+        "range": "December 2023 - January 2024"
+    },
+    {
+        "role": "Data Scientist (intern)",
+        "company": "[Recruit Co., Ltd.](https://www.recruit.co.jp)",
+        "summary": "Enhanced a recommendation model for a real estate media.",
+        "range": "September 2023 - October 2023"
+    },
+    {
+        "role": "Data Scientist (intern)",
+        "company": "[CyberAgent, Inc.](https://www.cyberagent.co.jp)",
+        "summary": "Developped PoC of assistant system which helps create advertisements placed in ABEMA---an online video platform---by answering questions.",
+        "range": "June 2023"
     },
     {
         "role":"AI Specialist (intern)",
