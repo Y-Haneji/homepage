@@ -30,5 +30,13 @@ name = "Kaggle"
 link = "https://qiita.com/Y-Haneji"
 name = "Qiita"
 
+[[ params.handles ]]
+link = "https://www.linkedin.com/in/yuto-haneji-3509252b4/"
+name = "LinkedIn"
+
+[[ params.handles ]]
+link = "https://x.com/YHaneji"
+name = "X"
+
 [outputs]
 home = ["HTML", "JSON"]
