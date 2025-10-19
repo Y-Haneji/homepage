@@ -2,7 +2,7 @@
 title: "EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts"
 date: 2024-10-07
 pubtype: "Preprint"
-featured: true
+featured: false
 description: ""
 tags: ["Research"]
 image: ""

@@ -1,9 +1,15 @@
 [
     {
+        "role":"Machine Learning Engineer",
+        "company":"[Mercari Inc.](https://about.mercari.com/en/about/company/)",
+        "summary":"ML model development in the Credit Scoring team.",
+        "range":"April 2025 - Current"
+    },
+    {
         "role":"Chief AI Engineer (part time)",
         "company":"[Matsuo Institute INC.](https://matsuo-institute.com)",
         "summary":"ML model development and project management.",
-        "range":"October 2024 - Present"
+        "range":"October 2023 - March 2025"
     },
     {
         "role":"AI Engineer (part time)",
@@ -15,7 +21,7 @@
         "role":"Data Scientist (part time)",
         "company":"[Rist Inc.](https://matsuo-institute.com)",
         "summary":"Data assessment, modeling of baseline, and proposal before permanent staffs involved.",
-        "range":"January 2022 - Present"
+        "range":"January 2022 - March 2025"
     },
     {
         "role": "Software Engineer (Machine Learning) (intern)",
